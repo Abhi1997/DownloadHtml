@@ -1,3 +1,5 @@
-# DownloadHtml
-Download Html page From Any Website And Store in Local Directory
-YOU CAN THEN APPLY VARIOUS ALGORITHMS AND CAN USE BEAUTIFUL SOUP AND REGULAR EXPRESSION TO EXTRACT DATA FROM IT
+First Download The Html Page By Using Downloader.py
+
+Which Will download All The Pages That Your Csv File Contain
+
+Then On The Downloaded Pages Run The Offline_Crawler
